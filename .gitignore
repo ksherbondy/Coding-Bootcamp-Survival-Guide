@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Production Build
+dist/
+build/
+
+# Environment & Secrets
+.env
+.env.local
+
+# Debugging & Logs
+*.log
+.eslintcache
+
+# OS & Editor
+.DS_Store
+.vscode/
+
+# Database
+*.sqlite
+*.db
