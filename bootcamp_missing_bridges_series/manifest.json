@@ -1,0 +1,28 @@
+{
+  "title": "Bootcamp Missing Bridges Series",
+  "purpose": "Concept-first guides for the connections bootcamps often assume rather than explicitly teach.",
+  "guides": [
+    "01-how-a-web-application-actually-works.md",
+    "02-javascript-execution-and-async-mental-models.md",
+    "03-reading-other-peoples-code.md",
+    "04-debugging-as-a-process.md",
+    "05-how-to-read-documentation.md",
+    "06-testing-mental-models.md",
+    "07-git-beyond-the-basics.md",
+    "08-data-flow-and-state.md",
+    "09-what-the-computer-is-actually-doing.md",
+    "10-security-foundations-for-developers.md"
+  ],
+  "worksheets": [
+    "01-web-request-trace.md",
+    "02-debugging-workbook.md",
+    "03-documentation-reading-sheet.md",
+    "04-testing-planner.md",
+    "05-git-state-checklist.md",
+    "06-state-flow-map.md",
+    "07-security-feature-review.md"
+  ],
+  "examples": [
+    "trace-a-full-stack-feature.md"
+  ]
+}

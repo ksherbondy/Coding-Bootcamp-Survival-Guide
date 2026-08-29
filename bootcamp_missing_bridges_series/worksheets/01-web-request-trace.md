@@ -1,0 +1,57 @@
+# Web Request Trace Worksheet
+
+Use this when a feature crosses frontend, backend, and database boundaries.
+
+```text
+FEATURE:
+
+USER ACTION:
+
+BROWSER EVENT:
+
+FRONTEND FUNCTION:
+
+HTTP METHOD:
+
+URL:
+
+REQUEST HEADERS:
+
+REQUEST BODY:
+
+SERVER ENTRY:
+
+MIDDLEWARE:
+
+ROUTE:
+
+CONTROLLER / HANDLER:
+
+SERVICE / BUSINESS LOGIC:
+
+DATABASE / EXTERNAL API:
+
+RESPONSE STATUS:
+
+RESPONSE BODY:
+
+FRONTEND RECEIVER:
+
+STATE CHANGE:
+
+RENDER / DOM CHANGE:
+```
+
+## Failure Isolation
+
+```text
+LAST KNOWN CORRECT STEP:
+
+FIRST KNOWN INCORRECT STEP:
+
+EVIDENCE:
+
+CURRENT HYPOTHESIS:
+
+NEXT TEST:
+```

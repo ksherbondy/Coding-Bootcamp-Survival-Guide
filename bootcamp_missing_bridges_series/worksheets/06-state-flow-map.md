@@ -1,0 +1,33 @@
+# State Flow Map
+
+Use this when a value behaves differently in different parts of an application.
+
+```text
+VALUE / STATE:
+
+WHERE CREATED:
+
+SOURCE OF TRUTH:
+
+OWNER:
+
+READERS:
+
+WRITERS:
+
+HOW IT CHANGES:
+
+IS IT DERIVED?:
+
+SHOULD IT PERSIST?:
+
+WHERE PERSISTED?:
+
+BOUNDARIES CROSSED:
+
+VALID STATES:
+
+INVALID STATES TO PREVENT:
+
+HOW UI / SYSTEM REACTS TO CHANGE:
+```
